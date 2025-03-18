@@ -18,3 +18,6 @@ CSS Grid & Flexbox untuk tampilan yang rapi dan menarik
 Clone repositori ini ->
 git clone https://github.com/username/kalkulator-kompleks.git
 Buka file index.php di browser atau jalankan di server lokal seperti XAMPP.
+
+![Calculator]([https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/calculator.png](https://github.com/adisetyawan024/Aplikasi-Kalkulator/blob/main/calculator.png?raw=true))
+
