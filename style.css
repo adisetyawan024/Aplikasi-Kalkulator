@@ -64,10 +64,26 @@ button:hover {
     background: #1976D2;
 }
 
-button:nth-child(4n) {
+/* button:nth-child(4n) {
     background: #FF5722;
 }
 
 button:nth-child(4n):hover {
     background: #d13e11;
+} */
+
+button:nth-child(1) { /* Tombol kedua yaitu Delete */
+    background: #ff0000; /* Warna oranye */
+}
+
+button:nth-child(4) { /* Tombol kedua yaitu Delete */
+    background: #ff0000; /* Warna oranye */
+}
+
+button:nth-child(20):hover {
+    background: #0218bc;
+}
+
+button:nth-child(20) { /* Tombol kedua yaitu Delete */
+    background: #1a00db; /* Warna oranye */
 }

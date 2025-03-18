@@ -19,6 +19,7 @@
             <button onclick="clearDisplay()">C</button>
             <button onclick="appendToDisplay('(')">(</button>
             <button onclick="appendToDisplay(')')">)</button>
+            <button onclick="deleteLastChar()">⌫</button>
             <button onclick="appendToDisplay('/')">÷</button>
 
             <button onclick="appendToDisplay('7')">7</button>
@@ -41,7 +42,7 @@
             <button onclick="calculateResult()">=</button>
 
             <button onclick="appendToDisplay('Math.sqrt(')">√</button>
-            <button onclick="appendToDisplay('Math.pow(')">xⁿ</button>
+            <!-- <button onclick="appendToDisplay('Math.pow(')">xⁿ</button> -->
             <button onclick="appendToDisplay('Math.sin(')">sin</button>
             <button onclick="appendToDisplay('Math.cos(')">cos</button>
             <button onclick="appendToDisplay('Math.tan(')">tan</button>

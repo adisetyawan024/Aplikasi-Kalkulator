@@ -13,3 +13,8 @@ function calculateResult() {
         document.getElementById('display').value = 'Error';
     }
 }
+
+function deleteLastChar() {
+    let display = document.getElementById('display');
+    display.value = display.value.slice(0, -1);
+}
